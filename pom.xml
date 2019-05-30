@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework.samples</groupId>
   <artifactId>petclinic-k8labs-user24</artifactId>
-  <version>3.0.1.RELEASE</version>
+  <version>0.0.3</version>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
